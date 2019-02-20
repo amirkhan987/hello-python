@@ -1,0 +1,8 @@
+a=int(input("enter a no"))
+if(a>7):
+  if(a>10):
+    print("A is greater than 7 & 10")
+  else:
+    print("A is greater than 7 but less than 10
+else:
+  print("A is greater than 7")
