@@ -1,0 +1,9 @@
+a=int(input("enter a no"))
+if(a>10):
+  print("a is greater than 10")
+elif(a>7):
+  print("a is greater than 7 but less than 10")
+elif(a>4):
+  print('a is gerater than 4 but less than 7")
+else:
+  print(a is less than 4")
