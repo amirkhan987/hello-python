@@ -1,0 +1,6 @@
+name=["amir","ankit","ranjeet"]
+roll no=["A1","A2","A3"]
+print(name)
+print(roll no)
+print(name[2])
+print(name[2:5])
