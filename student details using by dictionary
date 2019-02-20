@@ -1,0 +1,10 @@
+a1={}
+a1["name"]="Ankit"
+a1["roll no"]=101
+a1[3]="hello"
+print(a1)
+print(a1["name"])
+a2={"name":"amir","roll no":"102}
+print(a2)
+print(a2["roll no"]
+    
