@@ -1,0 +1,9 @@
+num = int(input("enter a no "))
+print("square",num)
+square = 0
+while(num!=0):
+    i=num%10
+    square=i*i+square
+    num=num//10
+    print("after reverse",square)
+    
